@@ -1,10 +1,1 @@
-Enjoy the Free Starter code + Assets 😍
-- Video tutorial link : https://youtu.be/4sc6BhgS_Co?feature=shared
-- Support us on YouTube Channel: [https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ](https://www.youtube.com/@TheCodingJourney)
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have built a fully functional e-commerce website using React, Angular, Node.js, and Django, integrating MongoDB and PostgreSQL for efficient data management. The website includes essential features like user authentication, a product catalog, a shopping cart, a secure payment gateway, and an intuitive admin dashboard. With a vibrant and responsive UI, it ensures a seamless shopping experience for users. This project showcases my expertise in full-stack web development, combining multiple frameworks to create a dynamic and scalable online store
